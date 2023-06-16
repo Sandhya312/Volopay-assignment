@@ -1,5 +1,5 @@
 <template>
-  <div class="all-cards">
+  <div>
     <CardCom :allCards="{ cards }" />
   </div>
 </template>

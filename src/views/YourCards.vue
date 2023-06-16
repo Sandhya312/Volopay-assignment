@@ -1,7 +1,7 @@
 <template>
     <div class="all-cards">
     <h4>Your cards</h4>
-     <CardCom :allCards={cards} />
+     <CardCom :allCards="{ cards }" />
    
     </div>
 </template>
